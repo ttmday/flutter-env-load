@@ -1,6 +1,6 @@
 # Carga de Environments
 
-![Como cargar Environments](./assets/Como%20cargar%20Enviroments%20en%20Flutter.png)
+![Como cargar Environments](./assets/como_cargar_enviroments_en_flutter.png)
 
 ```bash
 # Debug mode
